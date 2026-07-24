@@ -1,0 +1,10 @@
+Sorting 100000 elements...
+
+Sequential Merge Sort Time: 0.018000 seconds
+Parallel Merge Sort Time:   0.015000 seconds
+
+Difference (Sequential - Parallel): 0.003000 seconds
+Speedup: 1.20x
+
+Verification: First 20 elements of the sorted array:
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 
