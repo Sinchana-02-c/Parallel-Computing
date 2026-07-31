@@ -1,0 +1,9 @@
+Enter the number of iterations: 8
+Thread 1: Iteration 2
+Thread 1: Iteration 3
+Thread 3: Iteration 6
+Thread 3: Iteration 7
+Thread 2: Iteration 4
+Thread 2: Iteration 5
+Thread 0: Iteration 0
+Thread 0: Iteration 1
