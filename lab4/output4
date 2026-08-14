@@ -1,0 +1,8 @@
+Enter the upper limit (n) to find prime numbers: 500000
+
+Finding prime numbers from 1 to 500000...
+
+Sequential: Found 41538 primes in 0.033000 seconds
+Parallel:   Found 41538 primes in 0.014000 seconds
+
+Speedup: 2.36x
